@@ -2,8 +2,8 @@
 
 - Strategy
 - Observer
-- Decorator(DecoratorPattern)
-- Factory Method(FactoryMethod)
+- [Decorator](DecoratorPattern)
+- [Factory Method](FactoryMethod)
 - Singleton
 - Command
 - Adapter / Facade
