@@ -31,6 +31,7 @@ PizzaStore  <-  SimplePizzaFactory  <-  Pizza
 부모 : PizzaStore  
   - createPizza() : 추상메소드, 피자 인스턴스 생성한다
   - orderPizza() : 피자 생성과 완전히 분리, 어떤 피자인지 모르는 상태로 피자를 준비, 굽기, 자르기, 포장하는 일을 한다.
+
 자식 : NYPizzaStore / ChicagoPizzaStore
   - createPizza() : 부모의 추상메소드를 구현, 피자 종류에 따라 피자를 생성한다.
 
