@@ -4,7 +4,7 @@
 - Observer
 - [Decorator](DecoratorPattern)
 - [Factory Method](FactoryMethod)
-- Singleton
+- [Singleton](Singleton)
 - Command
 - Adapter / Facade
 - Template Method
