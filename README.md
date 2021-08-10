@@ -5,7 +5,7 @@
 - [Decorator](DecoratorPattern)
 - [Factory Method](FactoryMethod)
 - [Singleton](Singleton)
-- Command
+- [Command](Command)
 - Adapter / Facade
 - Template Method
 - Composite
